@@ -1,4 +1,4 @@
-* [🇺🇸 English](en/)
+<!-- * [🇺🇸 English](en/)
 * [🇨🇿 Czech (beta)](cs/)
 * [🇪🇸 Español (beta)](es/)
 * [🇫🇷 Français](fr/)
@@ -11,4 +11,5 @@
 * [🇺🇦 Українська](uk/)
 * [🇨🇳 简体中文](zh/)
 * [🇰🇵/🇰🇷 한국어 (beta)](ko/)
-* [🇸🇰 Slovak (beta)](sk)
+* [🇸🇰 Slovak (beta)](sk) -->
+* [🇪🇸 Creemos Academy](es_creemos_academy/)
